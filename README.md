@@ -1,4 +1,4 @@
-# docker-jekyll
+# jekyll-arm
 
 A quick & dirty jekyll container based on [armbuild/debian][1].
 
