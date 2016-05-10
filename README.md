@@ -1,6 +1,6 @@
 # docker-jekyll
 
-A quick & dirty jekyll container for based on [armbuild/debian][1].
+A quick & dirty jekyll container based on [armbuild/debian][1].
 
 ## Requirements
 
